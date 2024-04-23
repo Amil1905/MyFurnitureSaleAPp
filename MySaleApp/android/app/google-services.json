@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "396268059976",
+    "project_id": "mysaleapp-dae59",
+    "storage_bucket": "mysaleapp-dae59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396268059976:android:693dacc63035fabb3f477d",
+        "android_client_info": {
+          "package_name": "com.mysaleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396268059976-hg4b5udtfm0sj1rcng9rgh88csqo6okn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2u61QvG4yEZtRi2A9vOFElygbQEJKhuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396268059976-hg4b5udtfm0sj1rcng9rgh88csqo6okn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
